@@ -2,7 +2,7 @@
 
 # Callbacks
 
-[:link: Back to the main document](../)
+[:link: Back to the main document](../../../)
 
 Intercept specific alert events.
 
