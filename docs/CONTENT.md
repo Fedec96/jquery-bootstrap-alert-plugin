@@ -2,9 +2,9 @@
 
 # Alert content
 
-[:link: Back to the main document](../)
+[:link: Back to the main document](../../../)
 
-Information that can populate a target element. As stated in the [:link: fundamentals](../#fundamentals), the `heading` and/or `content` properties have to be declared and valid; otherwise the element will not be rendered at all.
+Information that can populate a target element. As stated in the [:link: fundamentals](../../../#fundamentals), the `heading` and/or `content` properties have to be declared and valid; otherwise the element will not be rendered at all.
 
 # Table of contents
 
