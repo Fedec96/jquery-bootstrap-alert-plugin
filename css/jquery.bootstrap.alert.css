@@ -1,0 +1,19 @@
+/*!
+ * BootstrapAlert
+ * Copyright 2021 Federico Cappelletti
+ * Licensed under MIT (https://github.com/Fedec96/jquery-bootstrap-alert-plugin/blob/main/LICENSE.md)
+ */
+
+
+/* ==========================================================================
+   Style for the alerts generated with the alerts plugin.
+   ========================================================================== */
+
+
+/* Close button
+   ========================================================================== */
+
+.alert-dismissible .btn-close {
+   padding: 1rem 1.25rem;
+   background: none;
+}
