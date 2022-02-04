@@ -1,8 +1,8 @@
-[&#8592; BootstrapAlert](../) &nbsp; | &nbsp; [Alert content &#8594;](CONTENT.md)
+[&#8592; BootstrapAlert](../../../) &nbsp; | &nbsp; [Alert content &#8594;](CONTENT.md)
 
 # General settings
 
-The general settings will describe how a specific alert behaves. They can be either tweaked locally (per-element) or for every single element that is a BootstrapAlert instance if the [:link: defaults are overridden](../#overriding-defaults).
+The general settings will describe how a specific alert behaves. They can be either tweaked locally (per-element) or for every single element that is a BootstrapAlert instance if the [:link: defaults are overridden](../../../#overriding-defaults).
 
 # Table of contents
 
