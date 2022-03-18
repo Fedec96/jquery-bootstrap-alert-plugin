@@ -69,7 +69,7 @@ content: 'Something happened.'
 <div role="alert" class="alert alert-primary alert-dismissible fade show">
   <h4 class="alert-heading">Attention required</h4>
   <hr>
-  <p class="mb-0">Something happened.</div>
+  <p class="mb-0">Something happened.</p>
   <button class="btn-close" type="button" title="Close" data-bs-dismiss="alert" aria-label="Close">
     <i class="bi bi-x-lg"></i>
   </button>
