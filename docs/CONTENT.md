@@ -136,7 +136,7 @@ icon: 'exclamation-lg'
   <hr>
   <p class="mb-0">
     <i class="bi bi-exclamation-lg me-1"></i>Something happened.
-  </div>
+  </p>
   <button class="btn-close" type="button" title="Close" data-bs-dismiss="alert" aria-label="Close">
     <i class="bi bi-x-lg"></i>
   </button>
